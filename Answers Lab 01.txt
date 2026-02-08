@@ -1,0 +1,15 @@
+========================== IT22896636- TDM Lab 01 =====================================
+
+1.What is gaze-based interaction?
+	Gaze-based interaction is when the system responds to where the user is looking, using the camera to simulate eye tracking.
+
+2.Why is dwell time useful?
+	Dwell time helps select objects without clicking by using how long the user looks at an object, reducing accidental actions.
+
+
+3.How does sensory feedback improve realism?
+	Sensory feedback makes interactions feel more real by combining visual changes with sound, which better matches human perception.
+
+
+4.Which cube felt most immersive and why?
+	The cube with color change, size change, and sound felt most immersive because it used multiple senses, making the interaction feel more realistic and engaging.
